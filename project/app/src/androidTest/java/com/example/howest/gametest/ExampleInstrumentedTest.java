@@ -1,4 +1,4 @@
-package com.example.howest.todogame;
+package com.example.howest.gametest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.howest.todogame", appContext.getPackageName());
+        assertEquals("com.example.howest.gametest", appContext.getPackageName());
     }
 }

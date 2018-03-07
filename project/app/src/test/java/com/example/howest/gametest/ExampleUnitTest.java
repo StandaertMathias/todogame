@@ -1,4 +1,4 @@
-package com.example.howest.todogame;
+package com.example.howest.gametest;
 
 import org.junit.Test;
 
